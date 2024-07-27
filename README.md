@@ -1,2 +1,2 @@
-# learning-ml-dl
-Repositorio para añadir mi aprendizaje de Machine Learning y Deep Learning
+# Raw NN Learning
+Repositorio para añadir mi aprendizaje de redes neuronales utilizando librerías sencillas de python.
